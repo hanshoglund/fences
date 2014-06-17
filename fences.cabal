@@ -4,7 +4,7 @@ version:            0.1
 cabal-version:      >= 1.10
 author:             Hans Hoglund
 maintainer:         Hans Hoglund <hans@hanshoglund.se>
-license:            GPL3
+license:            GPL-3
 license-file:       COPYING
 synopsis:           To be written
 category:           
