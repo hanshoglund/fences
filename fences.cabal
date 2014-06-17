@@ -1,6 +1,6 @@
 
 name:               fences
-version:            0.1
+version:            0.1.1
 cabal-version:      >= 1.10
 author:             Hans Hoglund
 maintainer:         Hans Hoglund <hans@hanshoglund.se>
@@ -13,7 +13,7 @@ build-type:         Simple
 
 description:
     This will be a version of /transf/ with a more modular design.
-    (See <<http://hackage.haskell.org/package/transf>>).
+    (See <http://hackage.haskell.org/package/transf>).
     .
     No code yet, just uploading it to reserve the name.
     
