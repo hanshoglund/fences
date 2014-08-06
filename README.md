@@ -24,6 +24,8 @@ Think of it as a literate programming where the program also generates the conte
 * Generate markdown (tables, histograms etc) to create "smart" text documents
 * As an overkill text preprocessor
 * As a meta-programming experiment.
+* Document your own DSL with examples *in the documentation*.
+* Augment your blog posts with rich generative media.
 
 ## Requirements
 
